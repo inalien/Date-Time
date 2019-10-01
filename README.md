@@ -1,3 +1,4 @@
+This is a simple web app that provides date an time details for today, yesterday, and tomorrow on a color-changing background.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
