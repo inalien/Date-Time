@@ -21,8 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage" : "https://inalien.github.io/Date-Time/",
-
+  "homepage": "https://inalien.github.io/Date-Time",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -34,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
