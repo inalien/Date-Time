@@ -6,7 +6,7 @@ import Tab from './components/tab'
 import Footer from './components/footer'
 ReactDOM.render(
 <fragment>
-    <Tab />
+    <Tab />``
     <Footer />
 </fragment>
 , document.getElementById('root'));
